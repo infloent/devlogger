@@ -1,5 +1,11 @@
 # Devlogger
 
+This is a basic angular demo project with basic functionalities.
+
+Check the live example here [https://infloent.github.io/devlogger](https://infloent.github.io/devlogger)
+
+The live demo of this app it's hosted on GH Project Page under the docs folder. To make this straight forward I have modified the build folder from "/dist/devlogger" to simply "/docs" to use this as the root for GH Project Page
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
